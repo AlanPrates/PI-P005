@@ -18,9 +18,9 @@ Esta atividade consiste na implementação de exercícios em C++ conforme as ins
 
 ## Branches Individuais:
 
-- [Alan_Prates](https://github.com/seu_nome/Atividade_PI-P003/tree/AlanPrates)
-- [Daniel_Monteiro](https://github.com/seu_nome/Atividade_PI-P003/tree/Daniel_Monteiro)
-- [Danilo_Silveira](https://github.com/seu_nome/Atividade_PI-P003/tree/Danilo_Silveira)
-- [Paulo_Pereira](https://github.com/seu_nome/Atividade_PI-P003/tree/Paulo_Pereira)
-- [Lucas_Santiago](https://github.com/seu_nome/Atividade_PI-P003/tree/Lucas_Santiago)
+- [Alan Prates](https://github.com/seu_nome/Atividade_PI-P005/tree/AlanPrates)
+- [Daniel Monteiro](https://github.com/seu_nome/Atividade_PI-P005/tree/danielMonteiro)
+- [Danilo Silveira](https://github.com/seu_nome/Atividade_PI-P005/tree/Danilo_Silveira)
+- [Paulo Pereira](https://github.com/AlanPrates/PI-P005/tree/pauloMarques)
+- [Lucas Santiago](https://github.com/seu_nome/Atividade_PI-P005/tree/Lucas_Santiago)
 
