@@ -14,7 +14,7 @@ Esta atividade consiste na implementação de exercícios em C++ conforme as ins
 
 ## Repositório:
 
-[Link para o Repositório no GitHub](https://github.com/seu_nome/Atividade_PI-P003)
+[Link para o Repositório no GitHub](https://github.com/AlanPrates/PI-P005)
 
 ## Branches Individuais:
 
